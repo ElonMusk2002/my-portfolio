@@ -197,16 +197,16 @@ import {
   
   const projects = [
 	{
-	  name: "DALL-E Clone",
+	  name: "3D Customizer With ChatGPT",
 	  description:
-		"Web-based platform that allows users to generate, share, and download images that they want, typing it in prompt",
+		"This project allows you to make your own t-shirt, customize it, choose a color and image upload and ask ChatGPT to make your own t-shirt by the prompt.",
 	  tags: [
 		{
 		  name: "react",
 		  color: "blue-text-gradient",
 		},
 		{
-		  name: "firebase",
+		  name: "javascript",
 		  color: "green-text-gradient",
 		},
 		{
@@ -215,7 +215,7 @@ import {
 		},
 	  ],
 	  image: dalle,
-	  source_code_link: "https://github.com/ElonMusk2002/DALL-E-2.0",
+	  source_code_link: "https://github.com/ElonMusk2002/T-Shirt_3D__Customizer_With_ChatGPT",
 	},
 	{
 	  name: "CodeX",
