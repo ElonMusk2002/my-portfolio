@@ -2,7 +2,7 @@
 
 This is my personal website portfolio built using React and Vite.
 
-The link to website - [https://my-portfolio432.vercel.app/](link)
+The link to website - [link](https://my-portfolio432.vercel.app/)
 
 ![screenshot of personal-webp](Portfolio.jpg)
 
