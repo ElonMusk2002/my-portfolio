@@ -27,7 +27,7 @@ import starbucks from "./company/starbucks.webp";
 import tesla from "./company/tesla.webp";
 
 import dalle from "./T-shirt.jpg";
-import generator from "./dalle.jpg";
+import generator from "./dall-e.jpg";
 import codex from "./codex.webp";
 
 export {
