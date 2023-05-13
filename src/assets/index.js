@@ -26,7 +26,7 @@ import shopify from "./company/shopify.webp";
 import starbucks from "./company/starbucks.webp";
 import tesla from "./company/tesla.webp";
 
-import dalle from "./dalle.webp";
+import dalle from "./T-shirt.jpg";
 import generator from "./dalle.jpg";
 import codex from "./codex.webp";
 
