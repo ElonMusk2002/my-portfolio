@@ -7,7 +7,6 @@ const Experience = React.lazy(() => import('./components/Experience'));
 const Feedbacks = React.lazy(() => import('./components/Feedbacks'));
 const Hero = React.lazy(() => import('./components/Hero'));
 const Navbar = React.lazy(() => import('./components/Navbar'));
-const Tech = React.lazy(() => import('./components/Tech'));
 const Works = React.lazy(() => import('./components/Works'));
 const StarsCanvas = React.lazy(() => import('./components/canvas/Stars.jsx'));
 
@@ -28,9 +27,6 @@ const App = () => {
         </Suspense>
         <Suspense fallback={<div>Loading Experience...</div>}>
           <Experience />
-        </Suspense>
-        <Suspense fallback={<div>Loading Tech...</div>}>
-          <Tech />
         </Suspense>
         <Suspense fallback={<div>Loading Works...</div>}>
           <Works />
