@@ -58,6 +58,5 @@ export {
   starbucks,
   tesla,
   dalle,
-  codex,
-  tripguide,
+  codex
 };
